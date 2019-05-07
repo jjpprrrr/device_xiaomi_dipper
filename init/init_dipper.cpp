@@ -64,5 +64,5 @@ void vendor_load_properties()
 
     // fingerprint
     property_override("ro.build.description", "dipper-user 8.1.0 OPM1.171019.011 V9.5.11.0.OEACNFA release-keys");
-    property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
+    property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/walleye/walleye:9/PQ2A.190405.003/5310204:user/release-keys");
 }
