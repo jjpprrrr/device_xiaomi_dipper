@@ -737,4 +737,6 @@
     <!-- Whether device has oled display -->
     <bool name="config_hasOledDisplay">true</bool>
 
+    <!-- Whether to show battery percentage inside icon -->
+    <bool name="config_battery_percentage_show_inside_icon">true</bool>
 </resources>
